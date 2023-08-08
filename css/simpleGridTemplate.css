@@ -149,9 +149,9 @@ header {
 	transition: all 0.3s linear;
 }
 .button:hover {
-	background-color: #6DC7D0;
-	color: #FFFFFF;
-	cursor: pointer;
+    background-color: rgba(113,112,112,1.00);
+    color: #FFFFFF;
+    cursor: pointer;
 }
 .copyright {
 	text-align: center;
@@ -287,4 +287,6 @@ footer {
 }
 
 @media screen{
+}
+.link {
 }
