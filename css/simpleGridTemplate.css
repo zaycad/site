@@ -111,11 +111,11 @@ header {
 	color: #FFFFFF;
 }
 .cards {
-	width: 100%;
-	height: auto;
-	max-width: 400px;
-	max-height: 200px;
-	opacity: 0.8;
+    width: 100%;
+    height: auto;
+    max-width: 99px;
+    max-height: 200px;
+    opacity: 0.8;
 }
 .intro .column p {
 	padding-left: 30px;
